@@ -19,6 +19,9 @@ https://portfolio-blog-starter.vercel.app
 
 You can choose from one of the following two methods to use this repository:
 
+## 설명
+https://nextjs-blog-template.pages.dev/guide/kr
+
 ### One-Click Deploy
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
